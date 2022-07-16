@@ -1,0 +1,1 @@
+%CURRENTDRIVE%\STAR\Portable\NPP\notepad++.exe 
